@@ -5,7 +5,7 @@ body {
   overflow-x: hidden;
 }
 
-.navbar {
+#navbar {
   width: 50%;
   height: 100vh;
   display: flex;
@@ -14,7 +14,7 @@ body {
 }
 
 @media screen and (max-width: 680px) {
-  .navbar {
+  #navbar {
     background-color: #eeee;
   }
 }
